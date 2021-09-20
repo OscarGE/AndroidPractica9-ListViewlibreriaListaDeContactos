@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica9_ListViewlibreria(ListaDeContactos)</string>
+    <string name="str_lista">Mi lista de contacto</string>
+    <string name="str_anadir">Añadir</string>
+    <string name="str_eliminar">Eliminar</string>
+    <string name="str_favorito">★</string>
+</resources>
